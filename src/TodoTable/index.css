@@ -1,0 +1,8 @@
+.todo-table{
+    min-width: 100%;
+    border: 2px solid;
+    border-collapse: collapse;
+}
+.todo-id{
+    min-width: 65px;
+}

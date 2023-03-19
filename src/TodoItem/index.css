@@ -1,0 +1,13 @@
+tr{
+    border-bottom: 2px solid;
+}
+th, td {
+    padding: 2px 10px;
+  }
+.user-button{
+    min-width: 80px;
+    background-color: #fff;
+    outline: none;
+    padding: 5px 7px;
+    cursor: pointer;
+}
